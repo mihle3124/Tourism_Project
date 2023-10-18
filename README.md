@@ -15,3 +15,6 @@ In order to legally comply, hosts who wish to have short term rentals must:
 		- up to two paying guests staying in your household for fewer than 30 days, only if every guest has free and 
 		unobstructed access to every room, and each exit within the apartment;
 		- Internal doors cannot have key locks that allow guests to leave and lock their room behind them.
+
+Covid
+
