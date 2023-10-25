@@ -67,8 +67,7 @@ rental market.
   
 &nbsp; Next Steps  
   
-&nbsp; - Validate Initial Findings by way of ground level research through through sampling and usage of paid data  
+&nbsp; - Validate Initial Findings by way of ground level research through sampling and usage of paid data  
 &nbsp; sources, focused on targeted neighborhoods.
   
-&nbsp; - Creation of a formal business case, which can then be converted into a formal business 
-&nbsp; plan.
+&nbsp; - Creation of a formal business case, which can then be converted into a formal business plan.
