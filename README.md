@@ -44,16 +44,13 @@ Hoteliers.
   
 &nbsp; Link: http://insideairbnb.com/get-the-data/
    
-&nbsp; 1) Airbnb Review data stretching back to 2009 
+&nbsp; 1) Airbnb Review data stretching back to 2009   
 &nbsp; &nbsp; Direct Link: https://docs.google.com/spreadsheets/d/1RKfTkY_SX8P9euGcLbSCsfG0HgMDzXnCML3HuAJq1BY/edit?usp=drive_link
-&nbsp; 2) Airbnb Snapshot data of listings for October 2022 and October 2023
-&nbsp; &nbsp; 2022 Direct Link: https://drive.google.com/file/d/1A82xcMrpzbbW3K7ewVuID0U1JwiT_I4W/view?usp=drive_link 
-&nbsp; &nbsp; 2023 Direct Link: https://drive.google.com/file/d/1-eRQLFsOxXLzTQ65mxPdbHLCAE1jnTfw/view?usp=drive_link
+&nbsp; 2) Airbnb Snapshot data of listings for October 2022 and October 2023  
+&nbsp; &nbsp; 2022 Direct Link: https://drive.google.com/file/d/1A82xcMrpzbbW3K7ewVuID0U1JwiT_I4W/view?usp=drive_link  
+&nbsp; &nbsp; 2023 Direct Link: https://drive.google.com/file/d/1-eRQLFsOxXLzTQ65mxPdbHLCAE1jnTfw/view?usp=drive_link  
   
 
-
-
-  
 ## Data Analysis  
   
 &nbsp; Analysis Topics:  
