@@ -1,5 +1,7 @@
-# Tourism_Project
-
+# Tourism_Project  
+  
+## Overview  
+  
 
 ## Background  
   
@@ -11,9 +13,9 @@ In order to legally comply and operate, hosts who wish to have short term rental
 	- Register with the city  
 	- Display a valid registration on their listing.    
 	- Host must share their data with the city  
-		- Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
-		to host, account name.  
-		- For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.
+		nbspnbsp - Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
+		nbspnbsp to host, account name.  
+		nbspnbsp - For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.  
 	- Hotels must also comply.  
 	- No more than two paying guests at a time    
 	- Guest must have free and unobstructed access to all rooms and exits.
@@ -21,5 +23,5 @@ In order to legally comply and operate, hosts who wish to have short term rental
   
 ### Covid  
   
-The effect of the Covid Pandemic in New York is assumed to have first taken place in 2020.
+The effects of the Covid Pandemic for New York rental real estate is assumed to have first taken place in 2020.
 
