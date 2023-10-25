@@ -13,9 +13,9 @@ In order to legally comply and operate, hosts who wish to have short term rental
 	- Register with the city  
 	- Display a valid registration on their listing.    
 	- Host must share their data with the city  
-		nbspnbsp - Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
-		nbspnbsp to host, account name.  
-		nbspnbsp - For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.  
+		nbsp nbsp - Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
+		nbsp nbsp to host, account name.  
+		nbsp nbsp - For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.  
 	- Hotels must also comply.  
 	- No more than two paying guests at a time    
 	- Guest must have free and unobstructed access to all rooms and exits.
