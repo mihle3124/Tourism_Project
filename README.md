@@ -33,11 +33,12 @@ Hoteliers.
 &nbsp; - Hotels must also comply.  
 &nbsp; - No more than two paying guests at a time    
 &nbsp; - Guest must have free and unobstructed access to all rooms and exits.
-&nbsp; - Internal doors cannot have key locks that allow guests to leave and lock their room behind them.
+&nbsp; - Internal doors cannot have key locks that allow guests to leave and  
+&nbsp; lock their room behind them.
   
 ### &nbsp; Covid  
   
-&nbsp; The effects of the Covid Pandemic for New York rental real estate is assumed to have first taken place in 2020.
+&nbsp; The effects of the Covid Pandemic on New York rental real estate is assumed to have first taken place in 2020.
     
 ## Data  
   
@@ -50,13 +51,13 @@ Hoteliers.
   
 &nbsp; Analysis Topics:  
   
-&nbsp; &nbsp; - Yearly Trends in Review Counts -> a review of Covid effects  
-&nbsp; &nbsp; - Yearly comparison of Seasonality -> measuring the Ban effect  
-&nbsp; &nbsp; - Listings before/after Ban binned by Minimum Nights -> measuring the Ban Effect  
+&nbsp; &nbsp; - Yearly Trends in Review Counts to measure the Covid effect  
+&nbsp; &nbsp; - Yearly comparison of Seasonality to measure the Ban effect  
+&nbsp; &nbsp; - Listings before/after Ban binned by Minimum Nights  
 &nbsp; &nbsp; - Compliance with the Ban one month after the start of enforcement  
-&nbsp; &nbsp; - Looking at the Ban Effect on overall listings in the 5 Boroughs  
+&nbsp; &nbsp; - Ban Effect on overall listings in the 5 Boroughs  
 &nbsp; &nbsp; - Pricing and Review ratings across Boroughs  
-&nbsp; &nbsp; - Connection between Price and the guest rating for the "Location" of a listing  
+&nbsp; &nbsp; - Correlation between Price and a Guests "Location" Rating  
 &nbsp; &nbsp; - A Borough level look at Short Term listings 2022 vs 2023
   
 ## Conclusion  
