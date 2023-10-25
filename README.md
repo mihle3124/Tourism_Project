@@ -6,38 +6,38 @@
   
 ## Overview  
     
-An exploration of New York City short term rentals and prospects for real investing on behalf of interested  
+An exploration of New York City short term rentals and prospects for real estate investing on behalf of interested  
 Hoteliers.  
   
-Three Questions are addressed:
+&nbsp; Three Questions are addressed:
   
-&nbsp; Has New York City rental housing recovered from Covid?  
+&nbsp; &nbsp; Has New York City rental housing recovered from Covid?
   
-&nbsp; How will the recent NYC ban on short term rentals affect the availability of short term rentals?  
+&nbsp; &nbsp; How will the recent NYC ban on short term rentals affect the availability of short term rentals?  
   
-&nbsp; Where should a prospective Hotelier invest to best take advantage of a drop in short term rentals?
+&nbsp; &nbsp; Where should a prospective Hotelier invest to best take advantage of a drop in short term rentals?
   
 ## Background  
   
-### The NYC Ban  
+### &nbsp; The NYC Ban  
   
-On September 5th 2023, New York began enforcing a ban on short-term rentals. Stays that are less than 30 days.   
+&nbsp; On September 5th 2023, New York began enforcing a ban on short-term rentals. Stays that are less than 30 days.   
   
-In order to legally comply and operate, hosts who wish to have short term rentals must:  
-- Register with the city  
-- Display a valid registration on their listing.    
-- Host must share their data with the city  
-&nbsp; - Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
-&nbsp; to host, account name.  
-&nbsp; - For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.  
-- Hotels must also comply.  
-- No more than two paying guests at a time    
-- Guest must have free and unobstructed access to all rooms and exits.
-- Internal doors cannot have key locks that allow guests to leave and lock their room behind them.
+&nbsp; In order to legally comply and operate, hosts who wish to have short term rentals must:  
+&nbsp; - Register with the city  
+&nbsp; - Display a valid registration on their listing.    
+&nbsp; - Host must share their data with the city  
+&nbsp; &nbsp; - Host Info: Name, Address, Phone Number, Email, Profile ID, Profile URL, Total Amount the platform transmitted   
+&nbsp; &nbsp; to host, account name.  
+&nbsp; &nbsp; - For the listing: Address, Listing Name, ID number, URL, Type of place, total number of nights booked.  
+&nbsp; - Hotels must also comply.  
+&nbsp; - No more than two paying guests at a time    
+&nbsp; - Guest must have free and unobstructed access to all rooms and exits.
+&nbsp; - Internal doors cannot have key locks that allow guests to leave and lock their room behind them.
   
-### Covid  
+### &nbsp; Covid  
   
-The effects of the Covid Pandemic for New York rental real estate is assumed to have first taken place in 2020.
+&nbsp; The effects of the Covid Pandemic for New York rental real estate is assumed to have first taken place in 2020.
     
 ## Data  
   
